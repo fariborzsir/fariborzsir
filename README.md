@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fariborzsir
-- 👀 I’m interested in web application development and also application development
-- 🌱 I’m currently learning enterprise web and mobile application development
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning web and mobile application development
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me https://fariborzsir.blogspot.com/
 
